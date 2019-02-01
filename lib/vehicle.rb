@@ -7,5 +7,5 @@ def initialize(wheel_size, wheel_number)
 end
 
 def go 
-  "v"
+  ""
 end
